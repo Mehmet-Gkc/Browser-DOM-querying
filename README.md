@@ -1,4 +1,6 @@
 # Menu Styling 
+[![Status overview badge](../../blob/badges/.github/badges/main/badge.svg)](#-results)
+
 In the repository, there is an `index.html` starting file which has the skeleton of an online menu. Style the menu by following the instructions below. 
 
 **Rules**: 
@@ -27,3 +29,34 @@ In the repository, there is an `index.html` starting file which has the skeleton
 * Follow the instructions to create a menu. You can add any additional styling. 
 * Deadline: 2hrs.
 * See reference images.
+
+[//]: # (autograding info start)
+# <img src="https://github.com/DCI-EdTech/autograding-setup/raw/main/assets/bot-large.svg" alt="" data-canonical-src="https://github.com/DCI-EdTech/autograding-setup/raw/main/assets/bot-large.svg" height="31" /> Results
+> ⌛ Give it a minute. As long as you see the orange dot ![processing](https://raw.githubusercontent.com/DCI-EdTech/autograding-setup/main/assets/processing.svg) on top, CodeBuddy is still processing. Refresh this page to see it's current status.
+>
+> This is what CodeBuddy found when running your code. It is to show you what you have achieved and to give you hints on how to complete the exercise.
+
+
+### Browser-DOM-querying
+
+|                 Status                  | Check                                                                                    |
+| :-------------------------------------: | :--------------------------------------------------------------------------------------- |
+| ![Status](../../blob/badges/.github/badges/main/status0.svg) | Page Shouldn't contain a CSS Stylesheet |
+| ![Status](../../blob/badges/.github/badges/main/status1.svg) | Element with class '.title' should be centered |
+| ![Status](../../blob/badges/.github/badges/main/status2.svg) | Elements with class '.category' should have custom font size |
+| ![Status](../../blob/badges/.github/badges/main/status3.svg) | Element with ID '#warning' should have custom font size |
+| ![Status](../../blob/badges/.github/badges/main/status4.svg) | `colorGenerator()` fuction should exist |
+| ![Status](../../blob/badges/.github/badges/main/status5.svg) | Elements with class `.food-category` should each have unique background color |
+| ![Status](../../blob/badges/.github/badges/main/status6.svg) | Each even element with class `.allergy-info` should have unique background color |
+| ![Status](../../blob/badges/.github/badges/main/status7.svg) | Elements with class `.allergy-warning` should be layed out as column and centered |
+| ![Status](../../blob/badges/.github/badges/main/status8.svg) | Element with class `.footer` should appear as column for mobile and row for desktop |
+| ![Status](../../blob/badges/.github/badges/main/status9.svg) | Elements with class `.food-desc` should have rounded corners and have a custom border color |
+
+
+
+[🔬 Results Details](../../actions)
+[🐞 Tips on Debugging](https://github.com/DCI-EdTech/autograding-setup/wiki/How-to-work-with-CodeBuddy)
+[📢 Report Problem](https://docs.google.com/forms/d/e/1FAIpQLSfS8wPh6bCMTLF2wmjiE5_UhPiOEnubEwwPLN_M8zTCjx5qbg/viewform?usp=pp_url&entry.652569746=Browser-DOM-querying)
+
+
+[//]: # (autograding info end)
